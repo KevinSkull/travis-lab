@@ -1,0 +1,1 @@
+![Build status](https://travis-ci.org/KevinSkull/travis-lab.svg?master)](https://travis-ci.org/KevinSkull) 
